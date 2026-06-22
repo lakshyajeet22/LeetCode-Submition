@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
