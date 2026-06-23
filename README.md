@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0238-product-of-array-except-self) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0867-transpose-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1572-matrix-diagonal-sum) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
