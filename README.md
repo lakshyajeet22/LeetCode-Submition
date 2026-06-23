@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0238-product-of-array-except-self) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0075-sort-colors) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
