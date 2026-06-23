@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0238-product-of-array-except-self) |
+| [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,4 +35,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
