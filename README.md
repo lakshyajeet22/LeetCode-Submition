@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1572-matrix-diagonal-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
 | ------- |
