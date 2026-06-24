@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 ## Math
@@ -119,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
