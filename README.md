@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0048-rotate-image) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
