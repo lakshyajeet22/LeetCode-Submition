@@ -1,14 +1,12 @@
 class Solution {
-    public int searchInsert(int[] nums, int target) {
-        int index=-1,s=0, n=nums.length, e=n-1;
-        while(s<=e){
-             int mid=s+(e-s)/2;
-            if(nums[mid]==target){ 
-                index=mid;
-               return mid;
-            }  
-            else if(nums[mid]>target)e=mid-1;
-            else if(nums[mid]<target) s=mid+1;
-        }return s;
+    public static int p(int[] arr, int s, int e, int target){
+        if(s>e) return s;
+        int mid=s+(e-s)/2;
+        if(target==arr[mid]) return mid;
+        else if(arr[mid]>target) return p(arr, s, mid-1, target);
+        else return p(arr, mid+1, e, target);
+    }
+    public int searchInsert(int[] arr, int target) {
+       return p(arr, 0, arr.length-1, target);
     }
 }
