@@ -2,14 +2,14 @@ class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
        
         
-        if(nums1.length>nums2.length){
-            int[] temp= nums1;
-            nums1=nums2;
-            nums2=temp;
-        }
+        // if(nums1.length>nums2.length){
+        //     int[] temp= nums1;
+        //     nums1=nums2;
+        //     nums2=temp;
+        // }
         int m=nums1.length, n=nums2.length;
-         int s=0, e=m;
-        // if(nums1.length>nums2.length)  findMedianSortedArrays(nums2, nums1);
+        int s=0, e=m;
+        if(nums1.length>nums2.length)  return findMedianSortedArrays(nums2, nums1);
 
         while(s<=e){
             int mid1 = s+(e-s)/2;
