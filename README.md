@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
