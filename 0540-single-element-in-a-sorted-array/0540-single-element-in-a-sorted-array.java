@@ -7,10 +7,10 @@ class Solution {
             if ((mid % 2) != 0) {
                 if(mid==0) ans=nums[mid];
                 if ( mid!=0 && nums[mid - 1] != nums[mid] ) {
-                    e--;
+                    e=mid;
                     ans=nums[mid];
                 }else
-                    s++;
+                    s=mid+1;
             } else {
                 if(mid==nums.length-1) ans=nums[mid];
                 if(mid!= nums.length-1 && nums[mid]!=nums[mid+1] ){
