@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0350-intersection-of-two-arrays-ii) |
