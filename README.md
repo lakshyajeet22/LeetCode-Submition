@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
