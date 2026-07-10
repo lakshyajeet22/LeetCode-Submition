@@ -1,6 +1,14 @@
 class Solution {
-    public int fib(int n) {
+    int[] arr;
+    public static int dp(int n, int[] arr){
         if(n<=1) return n;
-        return fib(n-1) + fib(n-2);
+        if(arr[n]!=-1) return arr[n];
+        arr[n]=dp(n-1, arr) + dp(n-2, arr);
+        return arr[n];
+    }
+    public int fib(int n) {
+          arr = new int[n+1];
+         Arrays.fill(arr, -1);
+         return dp(n, arr);
     }
 }
