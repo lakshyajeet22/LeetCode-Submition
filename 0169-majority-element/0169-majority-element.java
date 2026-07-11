@@ -2,12 +2,10 @@ class Solution {
     public int majorityElement(int[] nums) {
         int winner=nums[0], vote=1;
         for(int i : nums){
-            if(i!=winner){
-                vote--;
-            }else if(i==winner){
+            if(i==winner){
                 vote++;
-
-            }if(vote==0){
+            }else vote--;
+            if(vote==0){
                 winner=i;
                 vote=1;
             }
