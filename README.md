@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
