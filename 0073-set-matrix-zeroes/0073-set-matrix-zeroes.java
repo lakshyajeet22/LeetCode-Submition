@@ -1,24 +1,21 @@
 class Solution {
-    public void fill(int arr[][], int i, int j){
-        arr[i][j]=0;
-    }
-    public void setZeroes(int[][] matrix) {
-        boolean[] row=new boolean[matrix.length];
-        boolean[] col=new boolean[matrix[0].length];
-        for(int i=0; i<matrix.length; i++){
-            for(int j=0; j<matrix[0].length; j++){
-                if(matrix[i][j]==0){
+    public void setZeroes(int[][] mat) {
+        boolean[] row = new boolean[mat.length];
+        boolean[] col = new boolean[mat[0].length];
+        for(int i=0; i<mat.length; i++){
+            for(int j=0; j<mat[0].length; j++){
+                if(mat[i][j]==0){
                     row[i]=true;
                     col[j]=true;
                 }
             }
-        }for(int i=0; i<matrix.length; i++){
-            for(int j=0; j<matrix[0].length; j++){
+        }for(int i=0; i<mat.length; i++){
+            for(int j=0; j<mat[0].length; j++){
                 if(row[i] || col[j]){
-                   fill(matrix, i, j);
-                }
+                    mat[i][j]=0;
                 }
             }
         }
-    
+
+    }
 }
