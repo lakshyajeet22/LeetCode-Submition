@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1572-matrix-diagonal-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0876-middle-of-the-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
