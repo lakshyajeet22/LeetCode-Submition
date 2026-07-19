@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0500-keyboard-row) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0350-intersection-of-two-arrays-ii) |
