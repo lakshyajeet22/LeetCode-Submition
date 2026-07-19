@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0061-rotate-list) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0025-reverse-nodes-in-k-group) |
