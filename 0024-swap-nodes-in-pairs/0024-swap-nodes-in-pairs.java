@@ -7,35 +7,41 @@
  *     ListNode(int val) { this.val = val; }
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
+
+    /**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
  */
 class Solution {
-    public void rev(ListNode s, ListNode e){
-        
-       ListNode crr=s;
-       ListNode pr=null;
-       while(pr!=e){
-            ListNode temp= crr.next;
-            crr.next=pr;
-            pr=crr;
-            crr=temp;
-
-       }
-
-
-
-    } 
-    public ListNode swapPairs(ListNode head) {
-         if(head==null || head.next==null ) return head;
-        ListNode s=head;
-        ListNode e=head;
-        int i=1;
-        while(i-- !=0){
-            e=e.next;
-            if(e==null) return head;
+    public static ListNode rev(ListNode start , ListNode end){
+        ListNode prev = null, temp = start, curr=start;
+        while(curr!=end){
+            temp=temp.next;
+            curr.next=prev;
+            prev = curr;
+            curr=temp;
         }
-        ListNode ans= swapPairs(e.next);
-        rev(s,e);
-        s.next = ans;
-        return e;
+        return prev;
+    }
+    public ListNode swapPairs(ListNode head) {
+        int k=2;
+        if(head==null || head.next==null || k==1) return head;
+        ListNode start = head, end = head;
+        int i=1;
+        while(i<=k){
+            if(end==null ) return head;
+            end=end.next;
+            i++;
+        }
+        ListNode ans = rev(start, end);
+        start.next=swapPairs(end);
+        return ans;
     }
 }
+   
