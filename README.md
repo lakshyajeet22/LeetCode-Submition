@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0242-valid-anagram) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
