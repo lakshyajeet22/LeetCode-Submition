@@ -1,0 +1,11 @@
+class Solution {
+    public int maxProduct(int[] nums) {
+        int mx = 0;
+        for(int i=0; i<nums.length-1; i++){
+            for(int j=i+1; j<nums.length; j++){
+                int x= (nums[i]-1)*(nums[j]-1);
+                mx= Math.max(mx, x);
+            }
+        }return mx;
+    }
+}
