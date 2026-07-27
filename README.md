@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0242-valid-anagram) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0151-reverse-words-in-a-string) |
