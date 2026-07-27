@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0500-keyboard-row) |
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0922-sort-array-by-parity-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
