@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0085-maximal-rectangle) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1572-matrix-diagonal-sum) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0496-next-greater-element-i) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0901-online-stock-span) |
