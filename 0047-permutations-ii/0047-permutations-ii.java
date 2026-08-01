@@ -7,7 +7,7 @@ class Solution {
             return;
         }
         for(int i=0; i<nums.length; i++){
-            if(i!=0 && nums[i]==nums[i-1] && !saw[i-1]){
+            if(i!=0 && nums[i]==nums[i-1] && !saw[i-1] ){
                 continue;
             }
             if(!saw[i]){
