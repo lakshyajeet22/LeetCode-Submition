@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0922-sort-array-by-parity-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0090-subsets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
