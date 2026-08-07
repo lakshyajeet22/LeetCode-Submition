@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0165-compare-version-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0084-largest-rectangle-in-histogram) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0085-maximal-rectangle) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0867-transpose-matrix) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0079-word-search) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0090-subsets-ii) |
 ## Game Theory
 |  |
