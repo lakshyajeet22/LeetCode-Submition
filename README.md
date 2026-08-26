@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -587,4 +591,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
