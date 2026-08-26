@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1572-matrix-diagonal-sum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0904-fruit-into-baskets) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
 | ------- |
