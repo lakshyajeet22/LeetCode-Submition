@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0941-valid-mountain-array) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1046-last-stone-weight) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -630,8 +635,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
