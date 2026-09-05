@@ -674,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0797-all-paths-from-source-to-target) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
