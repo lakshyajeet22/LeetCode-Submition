@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3457-eat-pizzas](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3457-eat-pizzas) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0409-longest-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
+| [3457-eat-pizzas](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3457-eat-pizzas) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
+| [3457-eat-pizzas](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3457-eat-pizzas) |
 | [3731-find-missing-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
