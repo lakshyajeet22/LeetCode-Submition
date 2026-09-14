@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0525-contiguous-array) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0877-stone-game) |
 ## Stack
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0797-all-paths-from-source-to-target) |
 ## Game Theory
 |  |
@@ -690,4 +693,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1757-recyclable-and-low-fat-products) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
