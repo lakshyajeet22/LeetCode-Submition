@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0518-coin-change-ii) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0841-keys-and-rooms) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
@@ -707,5 +711,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
