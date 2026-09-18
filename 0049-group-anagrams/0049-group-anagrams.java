@@ -5,13 +5,9 @@ class Solution {
 
         for (String s : strs) {
 
-            TreeMap<Character, Integer> freq = new TreeMap<>();
-
-            for (char ch : s.toCharArray()) {
-                freq.put(ch, freq.getOrDefault(ch, 0) + 1);
-            }
-
-            String key = freq.toString();
+            char[] arr = s.toCharArray();
+            Arrays.sort(arr);
+            String key = new String(arr);
 
             if (!map.containsKey(key)) {
                 map.put(key, new ArrayList<>());
