@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Counting
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0877-stone-game) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
 |  |
 | ------- |
