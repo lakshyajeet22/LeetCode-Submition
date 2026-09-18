@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0844-backspace-string-compare) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0877-stone-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
