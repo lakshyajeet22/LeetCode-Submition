@@ -1,28 +1,30 @@
 class Solution {
-    public static boolean Valid(int[] arr, int mid, int k, int m){
-        int c=0, b=0;
+    boolean solve(int[] arr, int cap, int m, int k){
+        int curK=0, c=0;
         for(int i : arr){
-            if(i<=mid){
-                c++;
-                if(c==k){ b+=1; c=0;}
-            }else c=0;
-        }if(m<=b) return true;
-        return false;
-        
+            if(i<=cap){
+                curK++;
+                if(curK==k){
+                    curK=0;
+                    c++;
+                }
+            }else curK=0;
+        }
+        return c>=m;
     }
     public int minDays(int[] arr, int m, int k) {
-        if((long)m*k > arr.length) return -1;
-        int s=0, e=Integer.MIN_VALUE, ans=0;
+        int s =0, e=0;
         for(int i : arr){
-            s=0;
             e=Math.max(e, i);
+
         }
+        int ans =-1;
         while(s<=e){
-            int mid=s+(e-s)/2;
-            if(Valid(arr, mid, k, m)){
+            int mid = s+(e-s)/2;
+            if(solve(arr, mid, m, k)){
+                ans = mid;
                 e=mid-1;
-                ans=mid;
             }else s=mid+1;
-        }return ans ;
+        }return ans;
     }
 }
