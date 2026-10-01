@@ -10,7 +10,7 @@ class Solution {
             if (map.containsKey(i)) {
                 if (map.get(i) > 0) {
                     list.add(i);
-                    map.put(i, map.getOrDefault(i, 0) - 1);
+                    map.put(i, map.get(i) - 1);
                 }
 
             }
