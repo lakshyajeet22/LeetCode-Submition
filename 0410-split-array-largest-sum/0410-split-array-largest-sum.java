@@ -1,5 +1,5 @@
 class Solution {
-    static boolean isVal(int[] arr, long cap, int st){
+    boolean isVal(int[] arr, long cap, int st){
         long currCap =0;
         int cSt=1;
         for(int i : arr){
