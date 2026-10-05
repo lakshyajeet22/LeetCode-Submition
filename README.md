@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0918-maximum-sum-circular-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1092-shortest-common-supersequence) |
