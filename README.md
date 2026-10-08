@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0516-longest-palindromic-subsequence) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0876-middle-of-the-linked-list) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
