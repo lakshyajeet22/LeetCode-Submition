@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 | [1898-maximum-number-of-removable-characters](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1898-maximum-number-of-removable-characters) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3457-eat-pizzas](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3457-eat-pizzas) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3731-find-missing-elements) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1898-maximum-number-of-removable-characters](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1898-maximum-number-of-removable-characters) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Interactive
 |  |
 | ------- |
