@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0739-daily-temperatures) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0706-design-hashmap](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Number Theory
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -762,4 +766,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0142-linked-list-cycle-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
