@@ -24,9 +24,8 @@ class Solution {
         temp = head;
         while(temp!=null){
             map.get(temp).next=map.get(temp.next);
-            map.get(temp).random = map.get(temp.random);
+            map.get(temp).random=map.get(temp.random);
             temp=temp.next;
-
         }
         return map.get(head);
     }
