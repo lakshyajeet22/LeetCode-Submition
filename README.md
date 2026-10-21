@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0540-single-element-in-a-sorted-array) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0901-online-stock-span) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0901-online-stock-span) |
 ## Union-Find
