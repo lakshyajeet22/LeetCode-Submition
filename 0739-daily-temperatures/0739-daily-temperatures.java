@@ -1,22 +1,23 @@
+class Pair{
+    int index;
+    int val;
+    public Pair(int index, int val){
+        this.index = index;
+        this.val = val;
+    }
+}
 class Solution {
-    public int[] dailyTemperatures(int[] nums) {
-        int[] ans = new int[nums.length];
-        Stack<Integer> st = new Stack<>();
-        for(int i=nums.length-1; i>=0; i--){
-            int c=0;
-            while(!st.isEmpty() && nums[st.peek()] <= nums[i]){
+
+    public int[] dailyTemperatures(int[] arr) {
+        Stack<Pair> st = new Stack<>();
+        for(int i=arr.length-1; i>=0; i--){
+            while(!st.isEmpty() && st.peek().val<=arr[i]){
                 st.pop();
-                c++;
             }
-            if(st.isEmpty()){
-                ans[i] = 0;
-                st.push(i);
-                continue;
-            }
-            else if(nums[st.peek()]>nums[i]){
-                ans[i] = st.peek() - i;
-                st.push(i);
-            }
-        }return ans;
+            int s = arr[i];
+            arr[i]=st.isEmpty()? 0 : st.peek().index - i;
+            st.push(new Pair(i, s));
+        }
+        return arr;
     }
 }
