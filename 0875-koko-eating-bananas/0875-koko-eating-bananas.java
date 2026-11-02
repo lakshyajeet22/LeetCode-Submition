@@ -15,7 +15,7 @@ class Solution {
         }
         int ans =1;
         while(s<=e){
-            int mid = s+(e-s)/2;
+            int mid = (s+e)/2;
             if(solve(arr, h, mid)){
                 ans = mid;
                 e=mid-1;
