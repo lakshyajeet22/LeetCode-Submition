@@ -1,24 +1,18 @@
 class Solution {
-    
-    public static void l(List<Integer> list, int n, int k, int i){
-        
-        
-        if(list.size()==1) return ;
-       
-        i=(i+k)%list.size();
-        list.remove(i);
-        l(list,list.size(), k, i);
-        
-        
+    int solve(List<Integer> list , int k , int i){
+        if(list.size()==1) return list.get(0);
+        int index = (i+k)%list.size();
+        list.remove(index);
+        return solve(list, k, index);
+
     }
     public int findTheWinner(int n, int k) {
-        ArrayList<Integer> list = new ArrayList<>();
-        for(int i=0; i<n; i++){
-            list.add(i+1);
+        List<Integer> list = new ArrayList<>();
+        for(int i =1; i<=n; i++){
+            list.add(i);
         }
-       l(list, n, k-1,0);
-     return list.get(0);
 
-        
+        return solve(list, k-1, 0);
+
     }
 }
