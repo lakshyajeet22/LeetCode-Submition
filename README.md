@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0500-keyboard-row) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
