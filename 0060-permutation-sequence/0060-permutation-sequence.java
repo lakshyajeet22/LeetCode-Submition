@@ -1,28 +1,26 @@
 class Solution {
-    public void swap(char[] arr, int i, int j){
-        char temp = arr[i];
-        arr[i]=arr[j];
-        arr[j]=temp;
-    }
-    public void func(List<String> ans, char[] arr, int i){
-        if(i==arr.length){
-            ans.add(new String(arr));
+    void solve(List<String > ans, String temp, int i, int n, String s , boolean[] isVal){
+        if(i==s.length()){
+            ans.add(temp);
             return;
         }
-        for(int j=i; j<arr.length; j++){
-            swap(arr, i, j);
-            func(ans, arr, i+1);
-            swap(arr, i, j);
+        for(int j=0; j<s.length(); j++){
+            if(!isVal[j]){
+                isVal[j]=true;
+                solve(ans, temp+s.charAt(j), i+1, n, s, isVal);
+                isVal[j]=false;
+            }
         }
     }
     public String getPermutation(int n, int k) {
-        char[] arr = new char[n];
-        for(int i=0; i<n; i++){
-            arr[i]=(char)(49+i);
+        String s = "";
+        for(int i=1; i<=n; i++){
+            s+=i;
         }
-        List<String> ans = new ArrayList<>();
-        func(ans, arr, 0);
-        Collections.sort(ans);
+        boolean[] isVal= new boolean[n];
+        List<String > ans = new ArrayList<>();
+        String temp ="";
+        solve(ans, temp,0, n, s, isVal);
         return ans.get(k-1);
     }
 }
