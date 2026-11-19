@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0473-matchsticks-to-square) |
 | [0493-reverse-pairs](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0496-next-greater-element-i) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0371-sum-of-two-integers) |
+| [0473-matchsticks-to-square](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0473-matchsticks-to-square) |
 | [0832-flipping-an-image](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0832-flipping-an-image) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0410-split-array-largest-sum) |
+| [0473-matchsticks-to-square](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0516-longest-palindromic-subsequence) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0216-combination-sum-iii) |
+| [0473-matchsticks-to-square](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0797-all-paths-from-source-to-target) |
 ## Game Theory
@@ -786,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0706-design-hashmap) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
