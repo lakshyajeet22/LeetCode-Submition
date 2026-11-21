@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0733-flood-fill) |
