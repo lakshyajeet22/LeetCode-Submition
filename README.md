@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1898-maximum-number-of-removable-characters) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3457-eat-pizzas](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3457-eat-pizzas) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3731-find-missing-elements) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1898-maximum-number-of-removable-characters](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1898-maximum-number-of-removable-characters) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
 | ------- |
