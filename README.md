@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0371-sum-of-two-integers) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0371-sum-of-two-integers) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1823-find-the-winner-of-the-circular-game) |
