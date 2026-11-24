@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1572-matrix-diagonal-sum) |
+| [1748-sum-of-unique-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 | [1898-maximum-number-of-removable-characters](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1898-maximum-number-of-removable-characters) |
