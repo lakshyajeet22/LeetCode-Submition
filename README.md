@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3731-find-missing-elements) |
 ## String
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 | [3457-eat-pizzas](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3457-eat-pizzas) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
