@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1833-maximum-ice-cream-bars) |
 | [1898-maximum-number-of-removable-characters](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1898-maximum-number-of-removable-characters) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2057-smallest-index-with-equal-value) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3457-eat-pizzas](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/3457-eat-pizzas) |
