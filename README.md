@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0540-single-element-in-a-sorted-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/lakshyajeet22/LeetCode-Submition/tree/master/0509-fibonacci-number) |
